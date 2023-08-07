@@ -19,5 +19,9 @@
   <img align="center" alt="Josias-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="Josias-Fastapi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg">
 </div>
-
-
+<br>
+<div>  
+  <a href = "mailto:josiasfernandes624@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josias-fernandes-592379248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/JosiasFernandes-dev/JosiasFernandes-dev.github.io" target="_blank"><img src="https://img.shields.io/badge/CURRICULO-8A2BE2"></a>
+</div>
