@@ -1,7 +1,7 @@
 ### Olá! Sou Josias Fernades.
 
 - 🔭 Hoje trabalho com Infraestrutura - APIs, Scripts.
-- 🌱 Cursando atualmente Analise e Desenvolvimento de Sistemas.
+- 🌱 Cursando atualmente Análise e Desenvolvimento de Sistemas.
 
 
 <div>
